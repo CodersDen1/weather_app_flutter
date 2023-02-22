@@ -1,6 +1,7 @@
 # weather_app
-
-A new Flutter project.
+--------------------------------------------------------------------------------------------
+App depicting the weather for the scenarios : 
+ 
 
 ## Getting Started
 
